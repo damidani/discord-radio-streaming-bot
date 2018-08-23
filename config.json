@@ -1,1 +1,5 @@
-{"token":"BOT TOKEN","clientid":"BOT CLIENT ID","prefix":"!","ownerID":"OWNER ID"}
+{
+"token":"BOT TOKEN",
+"prefix":"!",
+"ownerID":"OWNER ID"
+}
