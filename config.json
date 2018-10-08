@@ -1,6 +1,6 @@
 {
 "token":"BOT TOKEN",
 "prefix":"!",
-"ownerID":"OWNER ID"
+"ownerID":"OWNER ID",
 "urlradio":"http://ondiradio.com:8000/stream"
 }
